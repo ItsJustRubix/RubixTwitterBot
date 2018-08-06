@@ -12,7 +12,7 @@ from config import *
 
 #Bot Version: v0.5
 
-#*NOTE* This bot is still in early development, It will be updated frequently.
+#NOTE This bot is still in early development, It will be updated frequently.
 
 #----------------------------------------------------------------------------------------------#
 #Authentication
